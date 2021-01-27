@@ -1,0 +1,10 @@
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.csprojAssemblyReference.cache
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.Form1.resources
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.Properties.Resources.resources
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.csproj.GenerateResource.cache
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.csproj.CoreCompileInputs.cache
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\bin\Debug\AmperAndVolts.exe.config
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\bin\Debug\AmperAndVolts.exe
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\bin\Debug\AmperAndVolts.pdb
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.exe
+C:\Users\lanak\source\repos\AmperAndVolts\AmperAndVolts\obj\Debug\AmperAndVolts.pdb
