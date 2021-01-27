@@ -257,6 +257,7 @@
             this.textBox_speed.Name = "textBox_speed";
             this.textBox_speed.Size = new System.Drawing.Size(100, 20);
             this.textBox_speed.TabIndex = 3;
+            this.textBox_speed.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_resistance_KeyPress);
             // 
             // label8
             // 
@@ -273,6 +274,7 @@
             this.textBox_mass.Name = "textBox_mass";
             this.textBox_mass.Size = new System.Drawing.Size(100, 20);
             this.textBox_mass.TabIndex = 1;
+            this.textBox_mass.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox_resistance_KeyPress);
             // 
             // label9
             // 
